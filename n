@@ -1,0 +1,29 @@
+[33mcommit 6dfadd81ab1ed46018736ffca455e593c4d8564c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: jy <jytan023@gmail.com>
+Date:   Wed Oct 26 00:08:39 2022 +0800
+
+    updated gitignore
+
+[33mcommit b2a0f897da56ad904827a0820b57e0ba0e36b5fe[m
+Author: jy <jytan023@gmail.com>
+Date:   Tue Oct 25 22:59:41 2022 +0800
+
+    add txt file
+
+[33mcommit d2e5ed89d57a120148ad4e966f81681e7cf1f0eb[m
+Author: JY <100592579+jytan023@users.noreply.github.com>
+Date:   Tue Oct 25 22:55:58 2022 +0800
+
+    Created gitignore
+
+[33mcommit 4c8e419dbcda29289924d65ded83134fe0e1112e[m
+Author: JY <100592579+jytan023@users.noreply.github.com>
+Date:   Tue Oct 25 22:55:14 2022 +0800
+
+    Added LICENSE.md
+
+[33mcommit dd89ea53489555c1d5aa77325ba9e76d1b966707[m
+Author: JY <100592579+jytan023@users.noreply.github.com>
+Date:   Tue Oct 25 22:53:56 2022 +0800
+
+    Create README.md
